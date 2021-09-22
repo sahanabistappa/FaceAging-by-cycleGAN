@@ -1,5 +1,5 @@
 # FaceAging-by-cycleGAN
-This project was graded **101/100** by cs230(fall semester 2018) of Stanford University.
+
 
 ## Contribution
 
